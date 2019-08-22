@@ -34,7 +34,7 @@ Please check out "Results" folder to see some of the quantarium and real world i
 
 <b> TBD </b>
 
-More work is needed to enhance the image quality further which require additional effort in regards to hyper-parameters modifications and more training.
+More work is needed to further enhance the image quality which require additional effort in regards to hyper-parameters modifications and more training.
 
 
 <b>Reference:-</b>
